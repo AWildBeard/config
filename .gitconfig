@@ -1,0 +1,6 @@
+[user]
+	email = awildbeard@byte.farm
+	name = Michael Mitchell
+	signingkey = 37D94CD514A71E0D
+[core]
+	editor = nvim
